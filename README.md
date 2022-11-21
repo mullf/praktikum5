@@ -10,11 +10,15 @@
 
 ![gambar1](gambar/prak5_1.png)
 
+![gambar1](gambar/prak5_2.png)
+
 ### Ubah elemen list :
 #### - Ubah elemen ke 4 dengan nilai lainnya
 #### - Ubah elemen ke 4 sampai dengan elemen terakhir
 
-![gambar1](gambar/prak5_2.png)
+![gambar1](gambar/prak5_3.png)
+
+![gambar1](gambar/prak5_4.png)
 
 ### Tambah elemen list :
 #### - Ambil 2 bagian dari list pertama (A) dan jadikan list ke 2 (B)
@@ -22,7 +26,9 @@
 #### - Tambah list B dengan 3 nilai
 #### - Gabungkan list B dengan list A
 
-![gambar1](gambar/prak5_3.png)
+![gambar1](gambar/prak5_5.png)
+
+![gambar1](gambar/prak5_6.png)
 
 ## Tugas Praktikum
 
@@ -34,6 +40,6 @@
 #### - Buatlah flowchart dan penjelasan programnya pada README.md
 #### - Commit dan push repository ke github.
 
-![gambar1](gambar/prak5_4.png)
+![gambar1](gambar/prak5_7.png)
 
-![gambar1](gambar/prak5_5.png)
+![gambar1](gambar/prak5_8.png)
