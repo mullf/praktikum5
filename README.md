@@ -43,3 +43,7 @@
 ![gambar1](gambar/prak5_7.png)
 
 ![gambar1](gambar/prak5_8.png)
+
+Flowchart
+
+![image](https://user-images.githubusercontent.com/115521049/204117157-175e2e4f-0990-4dec-b314-7a840fc0a3ef.png)
